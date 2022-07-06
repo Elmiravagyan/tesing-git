@@ -1,3 +1,5 @@
 function foo() {
-	console.log("Test git");
+	return 'Life is beautiful';
 }
+
+console.log(foo());
